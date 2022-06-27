@@ -1,0 +1,10 @@
+{
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "120"
+    ],
+    "python.linting.flake8Args": [
+        "--line-length",
+        "120"
+    ]
+}
